@@ -1,0 +1,11 @@
+Abril Masgrau 240564 abril.masgrau01@estudiant.upf.edu
+
+Unity Scripting exercise
+Added functionalities from part 2:
+•	Visuals: a heart appears, rotates, floats and disappears.
+•	Keeping Score: In the screen appears the total of sheep hit, and the sheep dropped. When a sheep drops, the game ends.
+•	Title Screen Buttons: The Player can start the game again by pressing Start with the mouse or Quit to exit.
+Other small changes:
+•	I added that the game ends also when the Player hits 5 sheep.
+•	A text appears on the screen “Hit 5 sheep to win!”.
+•	The velocity of the sheep is higher.
